@@ -1,4 +1,4 @@
-# Music Tier List
+# Tier List
 
 ## Descrição
 Aplicativo Android que permite buscar músicas de um artista e classificá-las em tiers (S, A, B, C, D, E). O usuário digita o nome de um artista, o app busca as músicas na iTunes Search API e exibe os resultados com capa, nome e álbum. O usuário pode então adicionar cada música a um tier da lista.
@@ -28,6 +28,10 @@ Aplicativo Android que permite buscar músicas de um artista e classificá-las e
 ## Permissões utilizadas
 O aplicativo utiliza a permissão INTERNET para realizar requisições à API pública.
 
+```xml
+<uses-permission android:name="android.permission.INTERNET" />
+```
+
 ## Como executar o projeto
 1. Clonar este repositório.
 2. Abrir o projeto no Android Studio.
@@ -39,4 +43,4 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 *(adicione prints aqui depois de rodar o app)*
 
 ## Autor
-Eduardo Torres
+Eduardo Vieira Torres dos Santos.
