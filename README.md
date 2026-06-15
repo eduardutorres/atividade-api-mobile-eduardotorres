@@ -5,8 +5,8 @@ Aplicativo Android que permite buscar músicas de um artista e classificá-las e
 
 ## API utilizada
 - Nome da API: iTunes Search API
-- Endpoint utilizado: https://itunes.apple.com/search
-- Exemplo de URL consultada: https://itunes.apple.com/search?term=the+weeknd&media=music&entity=song&limit=10&country=br
+- Endpoint utilizado: `https://itunes.apple.com/search`
+- Exemplo de URL consultada: [```url [https://itunes.apple.com/search?term=the+weeknd&media=music&entity=song&limit=10&country=br)```](https://itunes.apple.com/search?term=the+weeknd&media=music&entity=song&limit=10&country=br)
 - Principais dados retornados: nome da faixa (trackName), artista (artistName), álbum (collectionName), capa do álbum (artworkUrl100)
 
 ## Funcionalidades
