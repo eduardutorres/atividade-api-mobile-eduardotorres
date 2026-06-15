@@ -41,29 +41,28 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 
 ## Prints do aplicativo
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px; overflow-x: auto; padding-bottom: 10px;">
-  
-  <div style="min-width: 200px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/d124249f-c191-44dd-84f0-be28d7010d60" width="200" alt="Pesquisa" />
-    <p><b>1. Pesquisa</b></p>
-  </div>
-
-  <div style="min-width: 200px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/9d357e43-a688-4635-a97b-4ed57d7393b0" width="200" alt="Exibição API" />
-    <p><b>2. Resultados</b></p>
-  </div>
-
-  <div style="min-width: 200px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/61efab10-859d-4da9-b0c0-fc22904818e8" width="200" alt="Classificação" />
-    <p><b>3. Classificação</b></p>
-  </div>
-
-  <div style="min-width: 200px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/5dfe5e5a-01c0-4b56-bbc6-76bb2bc18bcc" width="200" alt="Tier List" />
-    <p><b>4. Tier List</b></p>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/d124249f-c191-44dd-84f0-be28d7010d60" width="200" alt="Pesquisa" />
+      <p><b>1. Pesquisa</b></p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/9d357e43-a688-4635-a97b-4ed57d7393b0" width="200" alt="Exibição API" />
+      <p><b>2. Resultados</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/61efab10-859d-4da9-b0c0-fc22904818e8" width="200" alt="Classificação" />
+      <p><b>3. Classificação</b></p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/5dfe5e5a-01c0-4b56-bbc6-76bb2bc18bcc" width="200" alt="Tier List" />
+      <p><b>4. Tier List</b></p>
+    </td>
+  </tr>
+</table>
 
 ## Autor
 Eduardo Vieira Torres dos Santos.
