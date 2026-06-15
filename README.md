@@ -41,7 +41,9 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 
 ## Prints do aplicativo
 
-<img width="630" height="1402" alt="GravaodeTela2026-06-15s13 25 55-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/81ca721e-68e3-4bd7-932e-fc7ed86e5c05" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81ca721e-68e3-4bd7-932e-fc7ed86e5c05" width="350" />
+</p>
 
 ## Autor
 Eduardo Vieira Torres dos Santos.
